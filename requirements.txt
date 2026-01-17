@@ -3,4 +3,4 @@ paramiko<4
 tldextract
 dnspython
 ansi2html
-giturlparse
+giturlparse==0.12.0
