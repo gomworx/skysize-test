@@ -1,3 +1,4 @@
 packaging
 paramiko<4
 tldextract
+dnspython
