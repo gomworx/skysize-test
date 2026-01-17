@@ -1,2 +1,2 @@
 packaging
-paramiko
+paramiko<4
