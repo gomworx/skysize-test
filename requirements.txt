@@ -2,3 +2,4 @@ packaging
 paramiko<4
 tldextract
 dnspython
+ansi2html
